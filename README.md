@@ -1,3 +1,4 @@
+remote_theme: pages-themes/cayman@v0.2.0
 <!-- Navigation Bar -->
 <div style="background-color:#f4f4f4; padding: 10px; text-align: center;">
   <a href="/" style="margin: 0 15px; text-decoration: none; font-weight: bold; color: #333;">Accueil</a>
