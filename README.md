@@ -14,9 +14,9 @@ Fondée en 1974, notre librairie est un lieu de rencontre pour les amoureux des 
 - Essais et biographies  
 - Ouvrages rares  
 
-📍 **Où nous trouver**  
-123 Rue des Livres, Paris, France  
-🕒 Du lundi au samedi, de 10h à 19h  
+📍 **Où nous trouver**
+TANGER;Maroc, rue mexique galerie SAADA ou avenue de belgique
+🕒 Du lundi au samedi, de 11h à 22h  
 
 💬 N’hésitez pas à nous rendre visite ou à nous contacter pour des conseils personnalisés.
 
