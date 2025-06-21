@@ -1,2 +1,25 @@
-# librairielemessagepedagogique.github.io
-Depuis 1974, notre librairie est un lieu de rencontre pour les amoureux des livres. Romans, essais, jeunesse ou ouvrages rares : notre sélection soignée et nos conseils personnalisés font de chaque visite une belle découverte, dans une ambiance conviviale et passionnée.
+<!-- Navigation Bar -->
+<div style="background-color:#f4f4f4; padding: 10px; text-align: center;">
+  <a href="/" style="margin: 0 15px; text-decoration: none; font-weight: bold; color: #333;">Accueil</a>
+  <a href="/shop" style="margin: 0 15px; text-decoration: none; font-weight: bold; color: #333;">Boutique</a>
+</div>
+
+# Bienvenue à notre Librairie
+
+Fondée en 1974, notre librairie est un lieu de rencontre pour les amoureux des livres.
+
+📚 **Nos collections** :
+- Romans classiques et contemporains  
+- Livres jeunesse  
+- Essais et biographies  
+- Ouvrages rares  
+
+📍 **Où nous trouver**  
+123 Rue des Livres, Paris, France  
+🕒 Du lundi au samedi, de 10h à 19h  
+
+💬 N’hésitez pas à nous rendre visite ou à nous contacter pour des conseils personnalisés.
+
+---
+
+*Une passion pour les livres depuis plus de 50 ans.*
