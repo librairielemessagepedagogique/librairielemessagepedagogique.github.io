@@ -23,4 +23,4 @@ TANGER;Maroc, rue mexique galerie SAADA ou avenue de belgique
 ---
 
 *Une passion pour les livres depuis plus de 50 ans.*
-gem "github-pages", group: :jekyll_plugins
+
